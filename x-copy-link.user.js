@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         X.com 一键复制帖子链接
-// @namespace    https://github.com/
+// @namespace    https://github.com/FFFold/x-copy-link
 // @version      1.1
 // @description  在首页推荐流等每条帖子的操作栏添加一键复制链接按钮，无需点进详情页
-// @author       
+// @author       FFFold
+// @homepageURL  https://github.com/FFFold/x-copy-link
+// @updateURL    https://raw.githubusercontent.com/FFFold/x-copy-link/master/x-copy-link.user.js
+// @downloadURL  https://raw.githubusercontent.com/FFFold/x-copy-link/master/x-copy-link.user.js
 // @match        https://x.com/*
 // @match        https://twitter.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=x.com
